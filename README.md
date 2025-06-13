@@ -149,7 +149,7 @@ I'm always excited to collaborate on interesting projects, discuss backend archi
 
 <div align="center">
 
-![Snake animation](https://github.com/adtyavrdhn/adtyavrdhn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/john_wick_03/john_wick_03/blob/output/github-contribution-grid-snake.svg)
 
 <img src="https://komarev.com/ghpvc/?username=adtyavrdhn&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 
