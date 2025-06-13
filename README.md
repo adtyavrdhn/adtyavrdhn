@@ -6,7 +6,7 @@
 
 *Passionate about the magic that happens behind the scenes* ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Debugging+life+one+semicolon+at+a+time;Professional+code+breaker+(and+fixer);Trying+to+make+things+make+sense%2C+failing+at+it+%3A'));Weekly+stats%3A+wrote+10+lines%2C+removed+400" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Debugging+life+one+semicolon+at+a+time;Professional+code+breaker+(and+fixer);Weekly+stats%3A+wrote+10+lines%2C+removed+400" alt="Typing SVG" />
 </div>
 </div>
 
