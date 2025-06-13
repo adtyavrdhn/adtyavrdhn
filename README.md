@@ -93,9 +93,9 @@ class Developer:
 
 ### LeetCode Stats 🧩
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/adtyavrdhn?theme=dark&font=Fira%20Code&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/john_wick_03?theme=dark&font=Fira%20Code&ext=heatmap)
 
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fadtyavrdhn&logo=leetcode&logoColor=yellow)
+![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjohn_wick_03n&logo=leetcode&logoColor=yellow)
 
 ### Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adtyavrdhn&theme=tokyo-night&hide_border=true)
@@ -151,6 +151,6 @@ I'm always excited to collaborate on interesting projects, discuss backend archi
 
 ![Snake animation](https://github.com/adtyavrdhn/adtyavrdhn/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://komarev.com/ghpvc/?username=john_wick_03&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=adtyavrdhn&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 
 </div>
