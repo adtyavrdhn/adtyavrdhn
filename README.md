@@ -151,6 +151,6 @@ I'm always excited to collaborate on interesting projects, discuss backend archi
 
 ![Snake animation](https://github.com/adtyavrdhn/adtyavrdhn/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://komarev.com/ghpvc/?username=adtyavrdhn&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=john_wick_03&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 
 </div>
