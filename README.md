@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**🔧 Full Stack Developer @ Cisco | 🧠 AI Explorer | 🌏 Bengaluru, India**
+**🔧 Software Engineer @ Cisco | 🌏 Bengaluru, India**
 
 *Passionate about the magic that happens behind the scenes* ✨
 
@@ -56,7 +56,7 @@
 class Developer:
     def __init__(self):
         self.name = "Aditya Vardhan"
-        self.role = "Full Stack Developer"
+        self.role = "Software Engineer"
         self.passions = [
             "Backend engineering deep dives",
             "Understanding how things work under the hood",
