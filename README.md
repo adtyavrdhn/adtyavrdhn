@@ -17,7 +17,7 @@
 - 🔍 **Deep diving into AI**: Exploring agentic frameworks, vector databases, and devouring research papers
 - 🌱 **Growing in Open Source**: Recently started contributing to projects I love - always learning how things *really* work
 - 💼 **Building at Cisco**: Full-stack development with a heavy backend focus
-- 📝 **Weekend Learning**: Planning to document my discoveries (stay tuned for blogs!)
+- 📝 **Weekend Learning**: I document my learnings here → [dev.to/adivardh](https://dev.to/adivardh)
 
 <br clear="right"/>
 
