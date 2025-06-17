@@ -87,8 +87,6 @@ class Developer:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adtyavrdhn&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adtyavrdhn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ### LeetCode Stats 🧩
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/john_wick_03?theme=dark&font=Fira%20Code&ext=heatmap)
