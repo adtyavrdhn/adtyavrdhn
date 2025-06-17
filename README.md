@@ -93,11 +93,6 @@ class Developer:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/john_wick_03?theme=dark&font=Fira%20Code&ext=heatmap)
 
-![LeetCode Badge](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjohn_wick_03&logo=leetcode&logoColor=yellow)
-
-### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adtyavrdhn&theme=tokyo-night&hide_border=true)
-
 </div>
 
 ---
@@ -114,18 +109,6 @@ class Developer:
 - 🧩 LeetCode: *"It's fun until it's not"* philosophy
 
 <br clear="right"/>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adtyavrdhn&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
