@@ -86,19 +86,6 @@ class Developer:
 
 ---
 
-## 🌟 Fun Facts
-
-<img align="right" alt="Fun Facts" width="300" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif">
-
-- 🔍 I love diving into the **nitty-gritty details** of how systems work
-- 🤖 Currently obsessed with **agentic frameworks** and **vector databases**
-- 📚 Weekend warrior: Reading AI research papers and experimenting
-- 🌐 Always curious about **backend architecture** and **system design**
-- ☕ Powered by curiosity (and coffee)
-- 🧩 LeetCode: *"It's fun until it's not"* philosophy
-
-<br clear="right"/>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
