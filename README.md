@@ -78,16 +78,7 @@ class Developer:
         print("Let's build something amazing together!")
 ```
 
-## 📊 GitHub Stats & LeetCode Progress
-
-<div align="center">
-
-### GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adtyavrdhn&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adtyavrdhn&theme=tokyonight&hide_border=true)
-
-### LeetCode Stats 🧩
+## LeetCode Stats 🧩
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/john_wick_03?theme=dark&font=Fira%20Code&ext=heatmap)
 
