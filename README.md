@@ -131,15 +131,8 @@ class Developer:
 
 <div align="center">
 
-I'm always excited to collaborate on interesting projects, discuss backend architecture, or chat about the latest in AI!
-
 - 💼 Open to **job opportunities** and **interesting projects**
 - 🤝 Looking to contribute more to **open source**
-- 💬 Love talking about **system design**, **AI**, and **backend engineering**
-
-**"The best way to understand how something works is to break it down, build it up, and make it better."**
-
-⭐ **Feel free to explore my repositories and don't hesitate to reach out!** ⭐
 
 </div>
 
