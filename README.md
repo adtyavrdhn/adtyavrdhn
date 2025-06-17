@@ -14,7 +14,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔍 **Deep diving into AI**: Exploring agentic frameworks, vector databases, and devouring research papers
+- 🔍 **Deep diving into AI**: Exploring agentic frameworks, vector databases, MCP server implementations.
 - 🌱 **Growing in Open Source**: Recently started contributing to projects I love - always learning how things *really* work
 - 💼 **Building at Cisco**: Full-stack development with a heavy backend focus
 - 📝 **Weekend Learning**: I document my learnings here → [dev.to/adivardh](https://dev.to/adivardh)
