@@ -84,13 +84,10 @@ class Developer:
 
 ---
 
-## 🤝 Let's Connect!
+## Contact 
 
 <div align="center">
-
-- 💼 Open to **job opportunities** and **interesting projects**
-- 🤝 Looking to contribute more to **open source**
-
+adtyavrdhn@gmail.com
 </div>
 
 ---
