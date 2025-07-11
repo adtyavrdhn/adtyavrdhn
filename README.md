@@ -31,7 +31,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend (Where the magic happens ✨)
+### Backend
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -55,27 +55,6 @@
 </div>
 
 ---
-
-## 🎯 What Drives Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Aditya Vardhan"
-        self.role = "Software Engineer"
-        self.passions = [
-            "Backend engineering deep dives",
-            "Understanding how things work under the hood",
-            "AI and intelligent systems",
-            "Open source exploration"
-        ]
-        self.current_focus = "AI agents & vector databases"
-        self.leetcode_status = "fun_until_it_becomes_tedious_grind()"  # 😅
-    
-    def say_hi(self):
-        print("Let's build something amazing together!")
-```
-
 ## LeetCode Stats 🧩
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/john_wick_03?theme=dark&font=Fira%20Code&ext=heatmap)
@@ -91,9 +70,3 @@ adtyavrdhn@gmail.com
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=adtyavrdhn&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views">
-
-</div>
