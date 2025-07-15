@@ -4,8 +4,6 @@
   
 **🔧 Software Engineer @ Cisco | 🌏 Bengaluru, India**
 
-*Passionate about the magic that happens behind the scenes* ✨
-
 </div>
 
 ---
@@ -13,7 +11,7 @@
 ## 🚀 What I'm Up To
 
 - 🔍 **Deep diving into AI**: Exploring agentic frameworks, vector databases, MCP server implementations.
-- 🌱 **Growing in Open Source**: Recently started contributing to projects I love - always learning how things *really* work
+- 🌱 **Growing in Open Source**: Recently started contributing to projects I love
 - 💼 **Building at Cisco**: Full-stack development with a heavy backend focus
 - 📝 **Learning**: I document my learnings here → [dev.to/adivardh](https://dev.to/adivardh)
 
